@@ -1,0 +1,20 @@
+{
+  "name": "bookish-cats",
+  "version": "1.0.0",
+  "description": "when-the-1am-coding-blues-hit",
+  "main": "index.ts",
+  "scripts": {
+    "test": "abracadabra gilligilli chhu"
+  },
+  "author": "navyagarwal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.3",
+    "@types/node": "^24.0.12",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
